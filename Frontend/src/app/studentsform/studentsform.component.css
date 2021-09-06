@@ -1,0 +1,20 @@
+.main{
+    margin: 30px;
+}
+
+h4{
+    margin-bottom: 50px;
+}
+
+ol{
+    margin-left: 80px;
+}
+
+h5{
+    margin-left: 60px;
+}
+.colorshadow{
+    border: 40px solid #a01a5d;
+    padding: 5px;
+    box-shadow: 6px 4px #a01a5d;
+}
