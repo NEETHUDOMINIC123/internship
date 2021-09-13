@@ -1,6 +1,14 @@
+img{
+    margin:10px;
+
+    float: center;
+}
+
+
 .card-body {
     font-size: medium;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
 
 }
 
